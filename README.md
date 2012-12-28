@@ -1,4 +1,7 @@
-bearded-octo-cyril
-==================
+Examples for coffeescript
+=========================
 
-Snippets for commons functions CoffeScript
+Examples of commons functions CoffeScript
+
+- IF
+- Switch
